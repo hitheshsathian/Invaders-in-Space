@@ -1,3 +1,3 @@
 # Invaders-in-Space
 
-This space invaders game utilizes the pygame library 
+Simple space invaders game that utilizes the pygame library 
